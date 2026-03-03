@@ -39,9 +39,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.liguangming.Shadowrocket</string>
+				<string>com.mxdzz.ios.sea</string>
 				<key>bundle-version</key>
-				<string>2.2.72</string>
+				<string>2.0.31</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
